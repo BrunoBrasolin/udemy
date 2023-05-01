@@ -3,9 +3,15 @@
 BankAccount ba = new BankAccount();
 List<Task> tasks = new List<Task>();
 
+SpinLock sl = new SpinLock();
+
 for (int i = 0; i < 10; i++)
 {
-    for (int j = 0; j < 1000; j++) tasks.Add(Task.Factory.StartNew(() => ba.Deposit(100)));
+    for (int j = 0; j < 1000; j++)
+    {
+        //bool lockTaken = 
+        tasks.Add(Task.Factory.StartNew(() => ba.Deposit(100)));
+    }
 
     for (int j = 0; j < 1000; j++) tasks.Add(Task.Factory.StartNew(() => ba.Withdraw(100)));
 }
@@ -36,7 +42,9 @@ class BankAccount
         //{
         //    Balance += amount;
         //}
-        Interlocked.Add(ref balance, amount);
+        //Interlocked.Add(ref balance, amount);
+
+        balance += amount;
     }
 
     public void Withdraw(int amount)
@@ -45,6 +53,9 @@ class BankAccount
         //{
         //    Balance -= amount;
         //}
-        Interlocked.Add(ref balance, -amount);
+        //Interlocked.Add(ref balance, -amount);
+
+        Monitor.TryEnter();
+        balance -= amount;
     }
 }
