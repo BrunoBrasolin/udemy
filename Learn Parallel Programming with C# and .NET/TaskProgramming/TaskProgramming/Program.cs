@@ -78,7 +78,8 @@
 
 //infiniteTask.Start();
 
-//Task.Factory.StartNew(() => { 
+//Task.Factory.StartNew(() =>
+//{
 //    token.WaitHandle.WaitOne();
 //    Console.WriteLine("Wait handle released, cancellation was requested");
 //}, token);

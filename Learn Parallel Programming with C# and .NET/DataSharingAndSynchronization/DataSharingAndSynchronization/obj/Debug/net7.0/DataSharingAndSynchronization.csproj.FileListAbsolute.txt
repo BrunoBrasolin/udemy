@@ -1,0 +1,15 @@
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\DataSharingAndSynchronization.csproj.AssemblyReference.cache
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\DataSharingAndSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\DataSharingAndSynchronization.AssemblyInfoInputs.cache
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\DataSharingAndSynchronization.AssemblyInfo.cs
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\DataSharingAndSynchronization.csproj.CoreCompileInputs.cache
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\bin\Debug\net7.0\DataSharingAndSynchronization.exe
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\bin\Debug\net7.0\DataSharingAndSynchronization.deps.json
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\bin\Debug\net7.0\DataSharingAndSynchronization.runtimeconfig.json
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\bin\Debug\net7.0\DataSharingAndSynchronization.dll
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\bin\Debug\net7.0\DataSharingAndSynchronization.pdb
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\DataSharingAndSynchronization.dll
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\refint\DataSharingAndSynchronization.dll
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\DataSharingAndSynchronization.pdb
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\DataSharingAndSynchronization.genruntimeconfig.cache
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\DataSharingAndSynchronization\DataSharingAndSynchronization\obj\Debug\net7.0\ref\DataSharingAndSynchronization.dll

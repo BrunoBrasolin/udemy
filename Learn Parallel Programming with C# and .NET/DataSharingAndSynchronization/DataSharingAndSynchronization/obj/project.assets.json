@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\t2s-bruno\\www\\pessoal\\udemy\\Learn Parallel Programming with C# and .NET\\TaskProgramming\\TaskProgramming\\TaskProgramming.csproj",
-      "projectName": "TaskProgramming",
-      "projectPath": "C:\\Users\\t2s-bruno\\www\\pessoal\\udemy\\Learn Parallel Programming with C# and .NET\\TaskProgramming\\TaskProgramming\\TaskProgramming.csproj",
+      "projectUniqueName": "C:\\Users\\t2s-bruno\\www\\pessoal\\udemy\\Learn Parallel Programming with C# and .NET\\DataSharingAndSynchronization\\DataSharingAndSynchronization\\DataSharingAndSynchronization.csproj",
+      "projectName": "DataSharingAndSynchronization",
+      "projectPath": "C:\\Users\\t2s-bruno\\www\\pessoal\\udemy\\Learn Parallel Programming with C# and .NET\\DataSharingAndSynchronization\\DataSharingAndSynchronization\\DataSharingAndSynchronization.csproj",
       "packagesPath": "C:\\Users\\t2s-bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\t2s-bruno\\www\\pessoal\\udemy\\Learn Parallel Programming with C# and .NET\\TaskProgramming\\TaskProgramming\\obj\\",
+      "outputPath": "C:\\Users\\t2s-bruno\\www\\pessoal\\udemy\\Learn Parallel Programming with C# and .NET\\DataSharingAndSynchronization\\DataSharingAndSynchronization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\t2s-bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,17 +52,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\bin\Debug\net7.0\TaskProgramming.exe
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\bin\Debug\net7.0\TaskProgramming.deps.json
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\bin\Debug\net7.0\TaskProgramming.runtimeconfig.json
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\bin\Debug\net7.0\TaskProgramming.dll
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\bin\Debug\net7.0\TaskProgramming.pdb
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\TaskProgramming.csproj.AssemblyReference.cache
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\TaskProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\TaskProgramming.AssemblyInfoInputs.cache
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\TaskProgramming.AssemblyInfo.cs
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\TaskProgramming.csproj.CoreCompileInputs.cache
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\TaskProgramming.dll
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\refint\TaskProgramming.dll
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\TaskProgramming.pdb
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\TaskProgramming.genruntimeconfig.cache
+C:\Users\t2s-bruno\www\pessoal\udemy\Learn Parallel Programming with C# and .NET\TaskProgramming\TaskProgramming\obj\Debug\net7.0\ref\TaskProgramming.dll
