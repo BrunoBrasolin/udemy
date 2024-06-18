@@ -1,6 +1,8 @@
 # Prompt Engineering Best Practices
 
-## Prompt Engineering Detailed
+## Introduction to Prompt Engineering
+
+### Prompt Engineering Detailed
 
 - Input Box
   - Tone - The mood/emotional quality | Ex. friendly, academic, formal...
@@ -14,7 +16,7 @@
   - Images
   - Code
 
-## The Importance of Prompt Engineering
+### The Importance of Prompt Engineering
 
 1. Imprive Results
 2. Controlling AI Characteristics
@@ -22,4 +24,3 @@
 4. Advanced Functionality
 5. Improving User Interactions
 6. Result Relevance
-
